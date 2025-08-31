@@ -1,3 +1,3 @@
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/maxdhctrl/vt/refs/heads/main/installer.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/maxdhctrl/benchmark/refs/heads/main/installer.sh)
 ```
